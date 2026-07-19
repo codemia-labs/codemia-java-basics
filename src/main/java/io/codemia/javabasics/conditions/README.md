@@ -169,6 +169,6 @@ Dans ce chapitre, vous avez appris :
 
 ## Navigation
 
-⬅️ [Opérateurs](../operators/README.md)
-
-➡️ Prochain chapitre : Boucles
+- [Accueil](../../../../../../../README.md)
+- Chapitre précédent : [Operateurs](../operateurs/README.md)
+- Chapitre suivant : [Boucles](../boucles/README.md)

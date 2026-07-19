@@ -114,6 +114,6 @@ créer une méthode ;
 ---
 # Navigation
 
-⬅️ [Boucles](../boucles/README.md)
-
-➡️ Prochain chapitre : [Tableaux](../tableaux/README.md)
+- [Accueil](../../../../../../../README.md)
+- Chapitre précédent : [Boucles](../boucles/README.md)
+- Chapitre suivant : [Tableaux](../tableaux/README.md)

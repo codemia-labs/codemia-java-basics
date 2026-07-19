@@ -147,6 +147,8 @@ Dans ce chapitre, vous avez appris :
 
 # Navigation
 
-⬅️ [Méthodes](../methodes/README.md)
+- [Accueil](../../../../../../../README.md)
+- Chapitre précédent : [Méthodes](../methodes/README.md)
 
-➡️ Fin du module Java Basics
+Fin du module Java Basics
+

@@ -139,6 +139,6 @@ Dans ce chapitre, vous avez appris :
 
 ## Navigation
 
-⬅️ [Types](../types/README.md)
-
-➡️ Prochain chapitre : [Conditions](../conditions/README.md)
+- [Accueil](../../../../../../../README.md)
+- Chapitre précédent : [Types](../types/README.md)
+- Chapitre suivant : [Conditions](../conditions/README.md)

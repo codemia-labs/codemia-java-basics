@@ -166,6 +166,6 @@ Dans ce chapitre, vous avez appris :
 
 ## Navigation
 
-⬅️ [Conditions](../conditions/README.md)
-
-➡️ Prochain chapitre : Méthodes
+- [Accueil](../../../../../../../README.md)
+- Chapitre précédent : [Conditions](../conditions/README.md)
+- Chapitre suivant : [Méthodes](../methodes/README.md)
