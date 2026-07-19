@@ -224,4 +224,4 @@ Dans ce chapitre, vous avez appris :
 
 ⬅️ [Introduction](../introduction/README.md)
 
-➡️ Prochain chapitre : Types primitifs
+➡️ Prochain chapître :[Type primitif](../types/README.md)
