@@ -141,5 +141,5 @@ Pour lancer un exemple :
 ---
 
 ## Navigation
-
-➡️ [Variables](../variables/README.md)
+- [Accueil](../../../../../../../README.md)
+- Chapitre suivant : [Variables](../variables/README.md)
