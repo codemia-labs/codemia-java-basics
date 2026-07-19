@@ -222,6 +222,6 @@ Dans ce chapitre, vous avez appris :
 
 ## Navigation
 
-⬅️ [Introduction](../introduction/README.md)
-
-➡️ Prochain chapître :[Type primitif](../types/README.md)
+- [Accueil](../../../../../../../README.md)
+- Chapitre précédent : [Introduction](../introduction/README.md)
+- Chapitre suivant : [Types](../types/README.md)
